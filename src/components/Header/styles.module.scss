@@ -1,0 +1,23 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: 6rem;
+    background-color: rgba(129, 14, 14, 0.26);
+
+
+    .top{
+        height: 3rem;
+        text-align: center;
+        padding: auto;
+    }
+    .navigate{
+        height: 3rem;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+        align-items: center;
+
+        background: linear-gradient(to top, transparent 90%, rgba(0, 0, 255, 0.26));
+    }
+}
