@@ -1,0 +1,95 @@
+{
+  "id": "home",
+  "label": "home",
+  "repeatable": false,
+  "status": true,
+  "json": {
+    "Main": {
+      "uid": {
+        "type": "UID",
+        "config": {
+          "label": "uid",
+          "placeholder": ""
+        }
+      },
+      "title_prod": {
+        "type": "StructuredText",
+        "config": {
+          "label": "title_prod",
+          "placeholder": "",
+          "allowTargetBlank": true,
+          "single": "heading1"
+        }
+      },
+      "desc_prod": {
+        "type": "StructuredText",
+        "config": {
+          "label": "desc_prod",
+          "placeholder": "",
+          "allowTargetBlank": true,
+          "single": "paragraph,preformatted,heading1,heading2,heading3,heading4,heading5,heading6,strong,em,hyperlink,image,embed,list-item,o-list-item,rtl"
+        }
+      },
+      "img_prod": {
+        "type": "Image",
+        "config": {
+          "label": "img_prod",
+          "constraint": {},
+          "thumbnails": []
+        }
+      },
+      "title_mat": {
+        "type": "StructuredText",
+        "config": {
+          "label": "title_mat",
+          "placeholder": "",
+          "allowTargetBlank": true,
+          "single": "heading1"
+        }
+      },
+      "desc_mat": {
+        "type": "StructuredText",
+        "config": {
+          "label": "desc_mat",
+          "placeholder": "",
+          "allowTargetBlank": true,
+          "single": "paragraph,preformatted,heading1,heading2,heading3,heading4,heading5,heading6,strong,em,hyperlink,image,embed,list-item,o-list-item,rtl"
+        }
+      },
+      "img_mat": {
+        "type": "Image",
+        "config": {
+          "label": "img_mat",
+          "constraint": {},
+          "thumbnails": []
+        }
+      },
+      "title_med": {
+        "type": "StructuredText",
+        "config": {
+          "label": "title_med",
+          "placeholder": "",
+          "allowTargetBlank": true,
+          "single": "heading1"
+        }
+      },
+      "desc_med": {
+        "type": "StructuredText",
+        "config": {
+          "label": "desc_med",
+          "placeholder": "",
+          "allowTargetBlank": true,
+          "single": "paragraph,preformatted,heading1,heading2,heading3,heading4,heading5,heading6,strong,em,hyperlink,image,embed,list-item,o-list-item,rtl"
+        }
+      },
+      "img_med": {
+        "type": "Image",
+        "config": {
+          "label": "img_med",
+          "constraint": {},
+          "thumbnails": []
+        }
+      }
+    }
+  }
+}

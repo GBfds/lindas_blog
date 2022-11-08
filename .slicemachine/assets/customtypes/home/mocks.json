@@ -1,0 +1,84 @@
+{
+  "id": "mock-doc-id",
+  "url": null,
+  "type": "home",
+  "href": null,
+  "tags": [],
+  "first_publication_date": "1970-01-01T00:00:01+0000",
+  "last_publication_date": "1970-01-01T00:00:01+0000",
+  "slugs": [],
+  "linked_documents": [],
+  "lang": "en-us",
+  "alternate_languages": [],
+  "data": {
+    "title_prod": [
+      {
+        "type": "heading1",
+        "text": "Policeman",
+        "spans": []
+      }
+    ],
+    "desc_prod": [
+      {
+        "type": "paragraph",
+        "text": "Sunt deserunt eu exercitation sunt magna id sint officia pariatur sint excepteur. Ex nostrud ad nostrud do ullamco sit fugiat duis amet tempor.",
+        "spans": []
+      }
+    ],
+    "img_prod": {
+      "dimensions": {
+        "width": 900,
+        "height": 500
+      },
+      "alt": null,
+      "copyright": null,
+      "url": "https://images.unsplash.com/photo-1600861194802-a2b11076bc51"
+    },
+    "title_mat": [
+      {
+        "type": "heading1",
+        "text": "Length",
+        "spans": []
+      }
+    ],
+    "desc_mat": [
+      {
+        "type": "paragraph",
+        "text": "Lorem irure labore elit. Ex ipsum adipisicing quis in sit esse eu. Nulla culpa velit incididunt officia exercitation nulla.",
+        "spans": []
+      }
+    ],
+    "img_mat": {
+      "dimensions": {
+        "width": 900,
+        "height": 500
+      },
+      "alt": null,
+      "copyright": null,
+      "url": "https://images.unsplash.com/photo-1593642633279-1796119d5482"
+    },
+    "title_med": [
+      {
+        "type": "heading1",
+        "text": "Making",
+        "spans": []
+      }
+    ],
+    "desc_med": [
+      {
+        "type": "paragraph",
+        "text": "Incididunt veniam sit ea enim cillum exercitation aliqua commodo exercitation. Et id ad aute laborum quis occaecat ex.",
+        "spans": []
+      }
+    ],
+    "img_med": {
+      "dimensions": {
+        "width": 900,
+        "height": 500
+      },
+      "alt": null,
+      "copyright": null,
+      "url": "https://images.unsplash.com/photo-1589321578146-4c1ba445cc88"
+    }
+  }
+}
