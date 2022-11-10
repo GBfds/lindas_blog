@@ -25,7 +25,7 @@ interface ContentProps{
 
 export default function Home({content}: ContentProps) {
 
-  console.log(content);
+  //console.log(content);
   
   return (
     <>
