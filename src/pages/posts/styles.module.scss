@@ -1,0 +1,49 @@
+.container{
+    width: 80%;
+    max-width: 1120px;
+    margin: 0 auto;
+    .post{
+        max-width: 720px;
+        margin: 3rem auto;
+        img{
+            width: 100%;
+            max-width: 720px;
+        }
+
+        h1{
+            margin-top: 2rem;
+            font-size: 2rem;
+        }
+
+        p{
+            margin-top: 1.2rem;
+            font-size: 1.2rem;
+            line-height: 150%;
+        }
+    }
+
+    .paginacao{
+        width: 80%;
+        max-width: 720px;
+        margin: 2rem auto;
+        display: flex;
+        justify-content: space-between;
+        flex-direction: row;
+        align-items: center;
+
+        .left, .right{
+            button{
+                background-color: rgb(122, 42, 197);
+                border: 1px solid rgb(122, 42, 197);
+                border-radius: 4px;
+                padding: 4px;
+                margin: 0 4px;
+                transition: 0.3s;
+            }
+            button:hover{
+                background-color: transparent;
+            }
+        }
+
+    }
+}
